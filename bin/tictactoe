@@ -1,3 +1,4 @@
 
 def initialize(play)
 @play = play 
+end
